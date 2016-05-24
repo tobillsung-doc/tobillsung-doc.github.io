@@ -8,8 +8,9 @@ logo:               'assets/img/logo_b.png'
 background:         'assets/img/type_writer_bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+#url:                http://taylantatli.me/Moon
 #url:                http://127.0.0.1.:4000/
+url:                http://www.bill-sung.com
 #url:                 http://bill-sung.com
 
 # Jekyll
