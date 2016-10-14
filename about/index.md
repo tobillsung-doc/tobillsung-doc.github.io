@@ -1,36 +1,27 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2016-07-01
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![myself](/assets/img/myself.jpeg){:class="img-responsive"}
 
-## Preview
+## Hi there, it's me. Bill !!
+I guess it was 2015 Fall in Savannah looking for some local restaurants. The chill wind kept blowing, but time seemed to be stopped somewhere along the way. Maybe, we were running to fast without know where we are heading to.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I came to America little more than 10 years ago. Dreaming about rocket scientist, I joined Georgia Tech Aerospace Engineering program. Like most of graduate students, I tried to extend my knowledge and expertise in many different areas. Luckily, my interest in quantitative finance allowed me to enter into the world of high frequency trading.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Everything happened in very short period of time. 10 seconds or 1 second is like eternity that many people laughed or cried.
 
-## Getting Started
+Spending about 5 years in Chicago, I moved back to Atlanta to work as market risk analyst for SunTrust bank. It was a big shift in the gear that my life became little more normal. I meant less hectic when I used to be in Chicago.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I started to do my old hobbies including taking photographs and writing some essays.
+
+I hope to share some thoughts through this page. I wish you enjoy as well.
+
+Until we see again.
+
+Ciao.
+
+/3 ...
