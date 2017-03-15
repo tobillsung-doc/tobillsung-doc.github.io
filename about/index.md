@@ -10,7 +10,7 @@ date: 2016-07-01
 ## Hi there, it's me. Bill !!
 I guess it was 2015 Fall in Savannah looking for some local restaurants. The chill wind kept blowing, but time seemed to stop somewhere along the way. Maybe, we were running too fast without knowing where we are heading to.
 
-I came to America little more than 10 years ago. Dreaming about rocket scientist, I joined Georgia Tech Aerospace Engineering program. Like most of graduate students, I tried to extend my knowledge and expertise in many different areas. Luckily, my interest in quantitative finance allowed me to enter into the world of high frequency trading.
+I came to America little more than 10 years ago. I was accepted from Georgia Tech Aerospace Engineering for graduate program. I tried to extend my knowledge and expertise in many different areas. Luckily, my interest in quantitative finance allowed me to enter into the world of high frequency trading.
 
 Everything happened in very short period of time. 10 seconds or 1 second is like eternity that many people laughed or cried.
 

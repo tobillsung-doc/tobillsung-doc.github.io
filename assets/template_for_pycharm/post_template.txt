@@ -1,0 +1,10 @@
+#set( $input_name = ${NAME} )
+#set( $date_str = ${YEAR} + '-' + ${MONTH} + '-' + ${DAY})
+
+---
+layout: post
+title: $input_name.replace($date_str, '').replace('_', '')
+date: $date_str
+type: post
+---
+
