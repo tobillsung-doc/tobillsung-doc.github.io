@@ -3,8 +3,9 @@
 
 ---
 layout: post
-title: $input_name.replace($date_str, '').replace('_', '')
+title: "$input_name.replace($date_str, '').replace('_', '')"
 date: $date_str
-type: post
+excerpt: ""
+tags: []
 ---
 
