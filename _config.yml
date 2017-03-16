@@ -77,5 +77,8 @@ whitelist:
 jekyll-mentions:
     base_url: https://github.com
 
+gist:
+  noscript: false
+
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
