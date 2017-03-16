@@ -1,9 +1,8 @@
 #set( $input_name = ${NAME} )
 #set( $date_str = ${YEAR} + '-' + ${MONTH} + '-' + ${DAY})
-
 ---
 layout: post
-title: "$input_name.replace($date_str, '').replace('_', '')"
+title: "$input_name.replace($date_str, '').substring(1)"
 date: $date_str
 excerpt: ""
 tags: []
