@@ -1,2 +1,3 @@
 {% capture imagePath %}{{ page.date | date: "%Y-%m-%d" }}/{{ include.name }}{% endcapture %}
-<img src="/assets/img/{{ imagePath }}" {% if include.width %} width="{{ include.width }}" {% endif %}/>
+<img src="/assets/img/{{ imagePath }}" style="width: 40px;"/>
+#"width="500px"
