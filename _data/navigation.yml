@@ -2,3 +2,12 @@
 
 - title: Projects
   url: /projects/
+
+- title: About
+  url: /about/
+
+- title: Home
+  url: /
+
+- title: Post
+  url: /post/
