@@ -14,7 +14,7 @@ I came to America little more than 10 years ago. I was accepted from Georgia Tec
 
 Everything happened in very short period of time. 10 seconds or 1 second is like eternity that many people laughed or cried.
 
-Spending about 5 years in Chicago, I moved back to Atlanta to work for SunTrust bank. It was a big shift that my life became little more normal. I meant less hectic than I was in Chicago.
+Spending about 5 years in Chicago, I moved back to Atlanta. It was a big shift that my life became little more normal. I meant less hectic than I was in Chicago.
 
 I started to do my old hobbies including taking photographs and writing some essays.
 
